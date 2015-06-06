@@ -1,7 +1,7 @@
 {
   "name": "accumulate-values",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Accumulate values via a reducer",
   "license": "MIT",
   "repository": "bendrucker/accumulate-values",
