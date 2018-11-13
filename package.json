@@ -23,11 +23,11 @@
     "string"
   ],
   "dependencies": {
-    "isarray": "2.0.1"
+    "isarray": "2.0.4"
   },
   "devDependencies": {
     "tape": "^4.0.0",
-    "standard": "^8.5.0"
+    "standard": "^12.0.1"
   },
   "files": [
     "index.js",
