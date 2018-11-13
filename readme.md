@@ -1,4 +1,4 @@
-# accumulate-values [![Build Status](https://travis-ci.org/bendrucker/accumulate-values.svg?branch=master)](https://travis-ci.org/bendrucker/accumulate-values)
+# accumulate-values [![Build Status](https://travis-ci.org/bendrucker/accumulate-values.svg?branch=master)](https://travis-ci.org/bendrucker/accumulate-values) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/accumulate-values.svg)](https://greenkeeper.io/)
 
 > Accumulate values via a reducer
 
